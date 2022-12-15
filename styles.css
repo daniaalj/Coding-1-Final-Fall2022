@@ -40,7 +40,13 @@ h4 {
 
  .insta {
     display: block;
-    width: 80%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .carousel-inner {
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
   }
